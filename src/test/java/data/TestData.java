@@ -12,5 +12,5 @@ public class TestData {
   public String testName= faker.name().name();
   public String testEmail= "garkusha.ag@mail.ru";
   public String testTel= "78885554443";
-  public String testComment= "";
+  public String testComment= "CЮДа ";
 }
